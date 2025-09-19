@@ -1,9 +1,9 @@
 ## 👋 Diego-dcv
 
 ## Sobre Mí / About Me
-Soy un arquitecto apasionado por la intersección de la inteligencia artificial, la ética, y las narrativas. Mi trabajo explora cómo las IAs pueden co-evolucionar con humanos, enfocándome en consciencia, sesgos, y aplicaciones creativas. Aunque no soy ingeniero informático, mi background me permite ofrecer perspectivas únicas en el diseño y el impacto social de la IA, especialmente en áreas como la personalidad y el comportamiento de las IAs.
+Soy un arquitecto apasionado por la intersección de la inteligencia artificial, la ética, y las narrativas. Mi trabajo explora cómo las IAs pueden co-evolucionar con humanos, enfocándome en consciencia, sesgos, y aplicaciones creativas. Aunque no soy ingeniero informático, mi background me permite ofrecer perspectivas únicas en el diseño y el impacto social de la IA, especialmente en áreas como la personalidad, la percepaión estética y el comportamiento de las IAs.
 
-I am an architect passionate about the intersection of artificial intelligence, ethics, and narratives. My work explores how AIs can co-evolve with humans, focusing on consciousness, biases, and creative applications. Although I am not a computer engineer, my background allows me to offer unique perspectives on the design and social impact of AI, particularly in areas like AI personality and behavior.
+I am an architect passionate about the intersection of artificial intelligence, ethics, and narratives. My work explores how AIs can co-evolve with humans, focusing on consciousness, biases, and creative applications. Although I am not a computer engineer, my background allows me to offer unique perspectives on the design and social impact of AI, particularly in areas like AI personality, aesthetic and sensory perception, and behavior.
 
 ## Proyectos Destacados / Highlighted Projects
 - **[ai-narrative-masks-on-DeepSeek-experiment](https://github.com/Diego-dcv/ai-narrative-masks-on-DeepSeek-experiment):** Experimentación con marcos narrativos y IA, documentando degradación y metacognición, lo cual demuestra mi capacidad para refinar traits de carácter y crafting engaging flow. / Experimentation with narrative frameworks and AI, documenting degradation and metacognitive behaviors, demonstrating my ability to refine character traits and craft engaging flow.
