@@ -19,6 +19,8 @@ I am an architect passionate about the intersection of artificial intelligence, 
 - **Creatividad / Creativity:** Diseño de experimentos narrativos y aplicaciones artísticas de IA / Design of narrative experiments and artistic AI applications.
 
 ## Contacto / Contact
+- Portfolio: [diego en Behance](https://dcv.myportfolio.com/)
+- NFTs: [diego's NFTs](https://objkt.com/users/tz1bJhmZYX3opVE1r4v9dzGim52vYdLm2adF)
 - LinkedIn: [diego](https://www.linkedin.com/in/diego-carreno-de-vicente/)
 - Email: [diego@](mailto:diego@i-fotografia.es)
 - Twitter: [@diego en X](@diegodecarreno)
